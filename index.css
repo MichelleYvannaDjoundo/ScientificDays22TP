@@ -1,0 +1,17 @@
+div{
+    background-color: peachpuff;
+    height: 80vh;
+    width: 30vw;
+    align-items: center;
+    border-radius: 20px;
+    margin-left: 30vw;
+    margin-top: 7vh;
+}
+form{
+    text-align: center;
+    border-radius: 3px;
+    margin-bottom: 0!important
+}
+#list{
+    list-style: none;
+}
